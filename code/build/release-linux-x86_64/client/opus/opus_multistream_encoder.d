@@ -1,0 +1,37 @@
+build/release-linux-x86_64/client/opus/opus_multistream_encoder.o: \
+ code/thirdparty/opus-1.5.2/src/opus_multistream_encoder.c \
+ code/thirdparty/opus-1.5.2/include/opus_multistream.h \
+ code/thirdparty/opus-1.5.2/include/opus.h \
+ code/thirdparty/opus-1.5.2/include/opus_types.h \
+ code/thirdparty/opus-1.5.2/include/opus_defines.h \
+ code/thirdparty/opus-1.5.2/include/opus.h \
+ code/thirdparty/opus-1.5.2/src/opus_private.h \
+ code/thirdparty/opus-1.5.2/celt/arch.h \
+ code/thirdparty/opus-1.5.2/include/opus_types.h \
+ code/thirdparty/opus-1.5.2/include/opus_defines.h \
+ code/thirdparty/opus-1.5.2/celt/celt.h \
+ code/thirdparty/opus-1.5.2/include/opus_custom.h \
+ code/thirdparty/opus-1.5.2/celt/entenc.h \
+ code/thirdparty/opus-1.5.2/celt/entcode.h \
+ code/thirdparty/opus-1.5.2/celt/ecintrin.h \
+ code/thirdparty/opus-1.5.2/celt/arch.h \
+ code/thirdparty/opus-1.5.2/celt/entdec.h \
+ code/thirdparty/opus-1.5.2/celt/stack_alloc.h \
+ code/thirdparty/opus-1.5.2/celt/float_cast.h \
+ code/thirdparty/opus-1.5.2/celt/os_support.h \
+ code/thirdparty/opus-1.5.2/celt/mathops.h \
+ code/thirdparty/opus-1.5.2/celt/os_support.h \
+ code/thirdparty/opus-1.5.2/celt/mdct.h \
+ code/thirdparty/opus-1.5.2/celt/kiss_fft.h \
+ code/thirdparty/opus-1.5.2/celt/cpu_support.h \
+ code/thirdparty/opus-1.5.2/celt/modes.h \
+ code/thirdparty/opus-1.5.2/celt/celt.h \
+ code/thirdparty/opus-1.5.2/celt/mdct.h \
+ code/thirdparty/opus-1.5.2/celt/bands.h \
+ code/thirdparty/opus-1.5.2/celt/modes.h \
+ code/thirdparty/opus-1.5.2/celt/rate.h \
+ code/thirdparty/opus-1.5.2/celt/cwrs.h \
+ code/thirdparty/opus-1.5.2/celt/stack_alloc.h \
+ code/thirdparty/opus-1.5.2/celt/quant_bands.h \
+ code/thirdparty/opus-1.5.2/celt/mathops.h \
+ code/thirdparty/opus-1.5.2/celt/pitch.h
